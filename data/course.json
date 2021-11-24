@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "db185b1c-9575-50cd-2cce-a5997944af70"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to International Relations",
+  "course_description": "This course provides an introduction to the causes of international conflict and cooperation. Topics include war initiation, crisis bargaining, international terrorism, nuclear strategy, interstate economic relations, economic growth, international law, human rights, and environmental politics.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.41",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
